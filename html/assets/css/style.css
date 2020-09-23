@@ -1,0 +1,21 @@
+.nav li a{
+    color: #fff;
+}
+
+.nav li a:hover{
+    background-color: green;
+}
+
+.overview{
+    background-image: url('../images/node.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.article-item{
+    margin: 40px 0;
+}
+
+.navigation{
+    margin-top: 30px;
+}
